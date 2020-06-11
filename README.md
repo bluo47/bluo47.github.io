@@ -7,5 +7,5 @@ I also love to play piano, and also an avid League of Legends player.
 ### Hello World
 Initial project
 ```markdown
-**Hello World!**
+Hello World!
 ```
