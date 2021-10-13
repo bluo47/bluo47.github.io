@@ -1,8 +1,8 @@
 ## Introduction
 
-Welcome to my site! My name is Benjamin Luo, and I am currently a student at Pomona College in Claremont, California. I am interested in computer science and data science, and this is where I'll mark progress of all of my current and future projects.
+My name is Benjamin Luo, and I am currently a third-year Computer Science and Neuroscience student at Pomona College, located in Claremont, CA.
 
-I also love to play piano, and also an avid League of Legends player.
+I also love to play piano as well as play video games, like Mario Kart and League of Legends.
 
 ### Hello World
 Initial project
